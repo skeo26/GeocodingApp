@@ -10,7 +10,7 @@ namespace GeocodingApp
     public class DgisGeocoder : IGeocodingProvider
     {
         private const string ApiUrl = "https://catalog.api.2gis.com/3.0/items/geocode";
-        private const string ApiKey = "57f832b7-e2c8-4b24-9caf-b1e5694066d9";
+        private const string ApiKey = "your-api-key";
         
         public async Task<Coordinates> GetCoordinatesAsync(string address)
         {
