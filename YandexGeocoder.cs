@@ -11,7 +11,7 @@ namespace GeocodingApp
     public class YandexGeocoder : IGeocodingProvider
     {
         private const string ApiUrl = "https://geocode-maps.yandex.ru/1.x/";
-        private const string ApiKey = "3e598c66-e4c5-4497-b239-4267bcde5f2c";
+        private const string ApiKey = "your-api-key";
 
         public async Task<Coordinates> GetCoordinatesAsync(string address)
         {
