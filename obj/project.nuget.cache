@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KGpRxr5KNW3URXxFzteabEp9bPIt16kYkMKcl1Z7me9Q5PbxXNynNtEjAjOa05aesv3bV//SJrKI3dF5XQZU6Q==",
+  "success": true,
+  "projectFilePath": "D:\\c#\\GeocodingApp\\GeocodingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samua\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

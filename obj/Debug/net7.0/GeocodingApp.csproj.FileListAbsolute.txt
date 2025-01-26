@@ -1,0 +1,17 @@
+D:\c#\GeocodingApp\obj\Debug\net7.0\GeocodingApp.csproj.AssemblyReference.cache
+D:\c#\GeocodingApp\obj\Debug\net7.0\GeocodingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\GeocodingApp\obj\Debug\net7.0\GeocodingApp.AssemblyInfoInputs.cache
+D:\c#\GeocodingApp\obj\Debug\net7.0\GeocodingApp.AssemblyInfo.cs
+D:\c#\GeocodingApp\obj\Debug\net7.0\GeocodingApp.csproj.CoreCompileInputs.cache
+D:\c#\GeocodingApp\bin\Debug\net7.0\GeocodingApp.exe
+D:\c#\GeocodingApp\bin\Debug\net7.0\GeocodingApp.deps.json
+D:\c#\GeocodingApp\bin\Debug\net7.0\GeocodingApp.runtimeconfig.json
+D:\c#\GeocodingApp\bin\Debug\net7.0\GeocodingApp.dll
+D:\c#\GeocodingApp\bin\Debug\net7.0\GeocodingApp.pdb
+D:\c#\GeocodingApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\c#\GeocodingApp\obj\Debug\net7.0\GeocodingApp.csproj.CopyComplete
+D:\c#\GeocodingApp\obj\Debug\net7.0\GeocodingApp.dll
+D:\c#\GeocodingApp\obj\Debug\net7.0\refint\GeocodingApp.dll
+D:\c#\GeocodingApp\obj\Debug\net7.0\GeocodingApp.pdb
+D:\c#\GeocodingApp\obj\Debug\net7.0\GeocodingApp.genruntimeconfig.cache
+D:\c#\GeocodingApp\obj\Debug\net7.0\ref\GeocodingApp.dll
