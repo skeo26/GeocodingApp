@@ -80,5 +80,3 @@ public class NewGeocoder : IGeocodingProvider
 }
 ```
 
-## Контакты
-Если у вас возникли вопросы или предложения, пожалуйста, свяжитесь с нами через Issues на GitHub.
