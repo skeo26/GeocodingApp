@@ -25,7 +25,6 @@ namespace GeocodingApp
                 response.EnsureSuccessStatusCode();
 
                 var jsonResponse = await response.Content.ReadAsStringAsync();
-                Console.WriteLine($"Response JSON: {jsonResponse}");
                 if (string.IsNullOrWhiteSpace(jsonResponse) || jsonResponse.Contains("\"items\":[]"))
                 {
                     Console.WriteLine("Ответ от API не содержит данных. Убедитесь, что адрес правильный.");
